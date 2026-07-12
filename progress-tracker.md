@@ -6,7 +6,7 @@
 
 - [x] Session 1: Lists, loops, conditions, and functions
 - [x] Session 2: Dictionaries and structured student data
-- [ ] Session 3: NumPy introduction
+- [x] Session 3: NumPy introduction
 - [ ] Session 4: pandas DataFrames
 - [ ] Session 5: Mini-project review and quiz
 
