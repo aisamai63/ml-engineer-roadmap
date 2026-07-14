@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.jupyter/
+.virtual_documents/
+.ipynb_checkpoints/
