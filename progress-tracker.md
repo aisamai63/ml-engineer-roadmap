@@ -8,7 +8,7 @@
 - [x] Session 2: Dictionaries and structured student data
 - [x] Session 3: NumPy introduction
 - [x] Session 4: pandas DataFrames
-- [ ] Session 5: Mini-project review and quiz
+- [x] Session 5: Mini-project review and quiz
 
 ### Weekly Requirements
 
@@ -25,3 +25,8 @@
 - What I found difficult:
 - What I completed independently:
 - What requires more practice:
+
+### Week 1 Quiz Result
+
+Score: 10/10 — 100%
+Status: Passed
