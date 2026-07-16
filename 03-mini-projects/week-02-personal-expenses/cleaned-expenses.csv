@@ -1,0 +1,9 @@
+Date,Category,Description,Amount,Payment_Method
+2026-07-01,Food,Groceries,82.5,Debit
+2026-07-02,Transportation,Bus pass,45.0,Credit
+2026-07-03,Entertainment,Movie ticket,52.214285714285715,Credit
+2026-07-04,Food,Restaurant,37.25,Debit
+2026-07-05,Utilities,Phone bill,65.0,Debit
+2026-07-06,Transportation,Taxi,22.5,Cash
+2026-07-08,Unknown,Coffee,6.75,Unknown
+2026-07-09,Shopping,Clothes,120.0,Credit
