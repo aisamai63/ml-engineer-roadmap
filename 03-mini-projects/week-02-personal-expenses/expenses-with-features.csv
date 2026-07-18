@@ -1,0 +1,9 @@
+Date,Category,Description,Amount,Payment_Method,Month,Needs_or_Wants,Large_Expense
+2026-07-01,Food,Groceries,82.5,Debit,July,Need,Yes
+2026-07-02,Transportation,Bus pass,45.0,Credit,July,Need,No
+2026-07-03,Entertainment,Movie ticket,52.21428571428572,Credit,July,Want,No
+2026-07-04,Food,Restaurant,37.25,Debit,July,Need,No
+2026-07-05,Utilities,Phone bill,65.0,Debit,July,Need,No
+2026-07-06,Transportation,Taxi,22.5,Cash,July,Need,No
+2026-07-08,Unknown,Coffee,6.75,Unknown,July,Want,No
+2026-07-09,Shopping,Clothes,120.0,Credit,July,Want,Yes
